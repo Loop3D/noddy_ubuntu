@@ -18,7 +18,9 @@ Then run:
 
 Batch/CLI mode:
 
-  ./noddy somefile.his -block
+  ./noddy fold_tilt_fault.his -block
+
+Use noddy -help for the full list of batch options.
 
 To run headless (no display, e.g. CI or a WSL session with no X
 server), set QT_QPA_PLATFORM=offscreen before launching -- this is how
@@ -29,9 +31,3 @@ Verified (ldd) against Ubuntu 20.04, all shared-library dependencies
 resolved via already-installed system packages -- no other files
 needed alongside the binary on a normal desktop Ubuntu install.
 
-Built from:
-  noddy-code-r2-orig_src/noddy  (Qt5 build via its Makefile), WSL
-  Ubuntu-20.04 copy at /home/mark/noddy-qt-port
-
-To refresh this bundle after rebuilding, re-copy the `noddy` binary
-from that WSL build tree.
