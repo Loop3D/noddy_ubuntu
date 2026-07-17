@@ -34,3 +34,6 @@ needed alongside the binary on a normal desktop Ubuntu install.
 
 Source Code
 Full source code available here: https://github.com/Loop3D/noddy_qt/
+
+Help
+Manuals for legacy version and other resources can be found here: https://tectonique.net/noddy
