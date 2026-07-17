@@ -31,3 +31,6 @@ Verified (ldd) against Ubuntu 20.04, all shared-library dependencies
 resolved via already-installed system packages -- no other files
 needed alongside the binary on a normal desktop Ubuntu install.
 
+
+Source Code
+Full source code available here: https://github.com/Loop3D/noddy_qt/
