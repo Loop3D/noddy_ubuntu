@@ -1,3 +1,10 @@
+THIS REPOSITORY IS ARCHIVED AND NO LONGER UPDATED.
+Current Windows, macOS and Linux builds, plus the source code, are at:
+  https://github.com/Loop3D/noddy_qt
+Download builds from https://github.com/Loop3D/noddy_qt/releases/tag/latest
+
+----------------------------------------
+
 NODDY -- LINUX (UBUNTU) RUNTIME BUNDLE
 =======================================
 
